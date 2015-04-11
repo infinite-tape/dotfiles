@@ -1,0 +1,12 @@
+{
+    "ext": {
+        "shell": {
+            "colorscheme": "pinecone",
+            "theme": "pinecone"
+        },
+        "tmux": {
+            "colorscheme": "pinecone",
+            "theme": "pinecone"
+        }
+    }
+}
